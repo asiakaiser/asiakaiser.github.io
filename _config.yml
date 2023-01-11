@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "ASIA KAISER"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Asia Kaiser"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://asiakaiser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asiakaiser.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Boulder,Colorado"
+  bio              : "Interested in socio-ecological systems in cites and all things bee related! "
+  location         : "Boulder, Colorado"
   employer         : "The University of Colorado at Boulder"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yA2TXZQAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F5136L4CoUH_UOD0KluNpvcUDS394WXV-0mH3qraBXGuSTNGA0icWVfrhyCMq8YHg7fMAwsAzX8BskhlS4o4AJ0W3Rh1NimORCODBch-Ug5PXn5j_c"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "asia.kaiser@colorado.edu"
+  researchgate     : "https://www.researchgate.net/profile/Asia-Kaiser"
   uri              :
   bitbucket        :
   codepen          :
