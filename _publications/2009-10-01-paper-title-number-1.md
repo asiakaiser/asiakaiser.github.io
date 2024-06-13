@@ -1,7 +1,7 @@
 ---
 title: "The impact of impervious surface and neighborhood wealth on arthropod biodiversity and ecosystem services in community gardens"
 collection: publications
-permalink: https://link.springer.com/article/10.1007/s11252-024-01560-y
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'As the number of humans living in cities has grown, interest in the value of community gardens to provide agricultural products has increased...'
 date: 2024
 venue: 'Urban Ecosystems'
