@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The impact of impervious surface and neighborhood wealth on arthropod biodiversity and ecosystem services in community gardens"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://link.springer.com/article/10.1007/s11252-024-01560-y
+excerpt: 'As the number of humans living in cities has grown, interest in the value of community gardens to provide agricultural products has increased...'
+date: 2024
+venue: 'Urban Ecosystems'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/s11252-024-01560-y.pdf'
+citation: 'Kaiser, A., & Resasco, J. (2024). The impact of impervious surface and neighborhood wealth on arthropod biodiversity and ecosystem services in community gardens. Urban Ecosystems, 1-13.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This study investigates how impervious surfaces and socioeconomic features around community gardens in Boulder, CO impact arthropod biodiversity and ecosystem services like pollination and pest control.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/content/pdf/10.1007/s11252-024-01560-y.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Kaiser, A., & Resasco, J. (2024). The impact of impervious surface and neighborhood wealth on arthropod biodiversity and ecosystem services in community gardens. Urban Ecosystems, 1-13.
